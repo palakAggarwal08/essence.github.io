@@ -1,1 +1,1 @@
-# essence.github.io
+# vanilla.github.io
